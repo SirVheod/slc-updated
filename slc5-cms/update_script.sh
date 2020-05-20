@@ -4,7 +4,7 @@ yum -y groupinstall 'Development Tools'
 
 export UPDATES=${PWD}/updates
 export GETTEXT_VERSION=gettext-0.20.1
-export CURL_VERSION=curl-7.65.0
+export CURL_VERSION=curl-7.70.0
 export OPENSSL_VERSION=openssl-1.1.1g
 export M4_VERSION=m4-1.4.18
 export AUTOCONF_VERSION=autoconf-2.69
